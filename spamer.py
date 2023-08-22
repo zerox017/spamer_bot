@@ -60,6 +60,7 @@ def spam():
                  for i in range(0,10):
                       print(f"{yellow}sleep {i+1}s")
                       time.sleep(1)
+                 x==0
             else:
                  continue
 
