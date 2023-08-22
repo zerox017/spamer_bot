@@ -1,1 +1,2 @@
-# spamer_bot
+# pkg install python
+# pip install request
