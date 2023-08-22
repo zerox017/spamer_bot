@@ -34,7 +34,7 @@ def hacked():
 
 def send_massage():
     hacked()
-    os.system("cls")
+    os.system("clear")
     while True:
         print(f"{red}wellcome to my app type end for end app")
         ID = input(f"{yellow}please type CHAT ID : ")
@@ -48,7 +48,7 @@ def send_massage():
 def spam():
     x = 0
     hacked()
-    os.system("cls")
+    os.system("clear")
     print(f"{red}Use cntrl c to stop the programp")
     ID = input(f"{yellow}please type CHAT ID : ")
     mas = input(f"{yellow}please type massage: ")
@@ -64,7 +64,7 @@ def spam():
                  continue
 
 # start 
-os.system("cls")
+os.system("clear")
 image = f"""{red}
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
